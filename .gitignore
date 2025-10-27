@@ -9,3 +9,58 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.staging
+*.env
+
+# Audio files (temporary/generated)
+*.wav
+*.mp3
+final.*
+audio_question.*
+test_*.mp3
+test_*.wav
+temp_audio.*
+assessment_audio.*
+
+# Gradio temporary files
+.gradio/
+flagged/
+
+# Assessment results (may contain sensitive data)
+assessment_results/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Model files (large files)
+models/
+*.model
+*.pkl
+*.joblib
+
+# SpeechBrain cache
+speechbrain_cache/
