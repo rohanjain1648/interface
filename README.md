@@ -169,13 +169,6 @@ This project uses Kiro IDE specifications for structured development. The intera
 
 This project is for educational and research purposes. Please ensure compliance with all applicable laws and regulations when using ADHD detection features.
 
-## Support
-
-For issues and questions:
-1. Check the troubleshooting section above
-2. Review the project specifications in `.kiro/specs/`
-3. Create an issue in the GitHub repository
-
 ---
 
 **Remember**: This tool is experimental and not a substitute for professional medical diagnosis or treatment.
